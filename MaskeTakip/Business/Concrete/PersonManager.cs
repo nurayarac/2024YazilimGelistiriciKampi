@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Business.Concrete
 {
-    public class PersonManager
+    public class PersonManager: IApplicantService
     {
         public void ApplyForMask(Person person)
         {
