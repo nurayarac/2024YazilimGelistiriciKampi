@@ -1,4 +1,6 @@
 ﻿using System;
+using Business.Concrete;
+using Entities.Concrete;
 
 namespace Workaround
 {
@@ -12,6 +14,18 @@ namespace Workaround
             SelamVer(isim: "zehra");
             SelamVer();
             int sonuc = Topla(3,5);
+            Person person1 = new Person();
+            person1.FirstName = "ENGİN";
+            person1.LastName = "DEMİROĞ";
+            person1.DateOfBirthYear = 1985;
+            person1.NationalIdenty = 123;
+
+
+            Person person2 = new Person();
+            person2.FirstName = "Derya";
+
+            PttManager pttManager = new PttManager(new PersonManager());
+            pttManager.GiveMask(person1);
             Console.ReadLine();
         }
 
