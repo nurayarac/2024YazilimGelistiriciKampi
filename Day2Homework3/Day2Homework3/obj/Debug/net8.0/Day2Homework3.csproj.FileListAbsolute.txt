@@ -1,0 +1,14 @@
+C:\Users\nuray\source\repos\Day2Homework3\Day2Homework3\bin\Debug\net8.0\Day2Homework3.exe
+C:\Users\nuray\source\repos\Day2Homework3\Day2Homework3\bin\Debug\net8.0\Day2Homework3.deps.json
+C:\Users\nuray\source\repos\Day2Homework3\Day2Homework3\bin\Debug\net8.0\Day2Homework3.runtimeconfig.json
+C:\Users\nuray\source\repos\Day2Homework3\Day2Homework3\bin\Debug\net8.0\Day2Homework3.dll
+C:\Users\nuray\source\repos\Day2Homework3\Day2Homework3\bin\Debug\net8.0\Day2Homework3.pdb
+C:\Users\nuray\source\repos\Day2Homework3\Day2Homework3\obj\Debug\net8.0\Day2Homework3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuray\source\repos\Day2Homework3\Day2Homework3\obj\Debug\net8.0\Day2Homework3.AssemblyInfoInputs.cache
+C:\Users\nuray\source\repos\Day2Homework3\Day2Homework3\obj\Debug\net8.0\Day2Homework3.AssemblyInfo.cs
+C:\Users\nuray\source\repos\Day2Homework3\Day2Homework3\obj\Debug\net8.0\Day2Homework3.csproj.CoreCompileInputs.cache
+C:\Users\nuray\source\repos\Day2Homework3\Day2Homework3\obj\Debug\net8.0\Day2Homework3.dll
+C:\Users\nuray\source\repos\Day2Homework3\Day2Homework3\obj\Debug\net8.0\refint\Day2Homework3.dll
+C:\Users\nuray\source\repos\Day2Homework3\Day2Homework3\obj\Debug\net8.0\Day2Homework3.pdb
+C:\Users\nuray\source\repos\Day2Homework3\Day2Homework3\obj\Debug\net8.0\Day2Homework3.genruntimeconfig.cache
+C:\Users\nuray\source\repos\Day2Homework3\Day2Homework3\obj\Debug\net8.0\ref\Day2Homework3.dll
